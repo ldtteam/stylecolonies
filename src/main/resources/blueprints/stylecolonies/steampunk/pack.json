@@ -1,0 +1,14 @@
+{
+  "icon": "steampunk.png",
+  "name": "Steampunk",
+  "authors": [
+    "m00b13n, MotionlessTrain, Yalokivi"
+  ],
+  "desc": "Steampunk, Big and Challenging! 'copper hell' - Sapph",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "116",
+  "pack-format": "1"
+}

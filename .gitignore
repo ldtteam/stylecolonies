@@ -1,0 +1,10 @@
+
+
+build/
+
+.idea/
+
+.gradle/
+
+run/
+/out/

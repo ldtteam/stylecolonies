@@ -1,0 +1,14 @@
+{
+  "icon": "underwaterbase.png",
+  "name": "Underwater Base",
+  "authors": [
+    "matlom", "McSassa"
+  ],
+  "desc": "Exploit the treasures hidden in the deepest oceans. Prepare yourself to clean-up an ocean monument to succeed!",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": 26,
+  "pack-format": 1
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "crimsonkeep.png",
+  "name": "Crimson Keep",
+  "authors": [
+    "PrincessWendy, Dylbert93"
+  ],
+  "desc": "A modular keep that is kinda expensive",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "3",
+  "pack-format": "1"
+}

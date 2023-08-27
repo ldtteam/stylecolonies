@@ -1,0 +1,15 @@
+{
+  "icon": "corrupted.png",
+  "name": "Corrupted",
+  "authors": [
+    "jug1000"
+  ],
+  "desc": "A corrupted pogota",
+  "mods": [
+  "structurize",
+  "minecolonies",
+  "byg"
+  ],
+  "version": "3",
+  "pack-format": "1"
+}

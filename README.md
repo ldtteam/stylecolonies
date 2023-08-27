@@ -2,13 +2,13 @@ This is the Repository of the Minecolonies Addon: Stylecolonies.
 
 To get your style included make sure to include this in a PR/issue.
 
-> Screenshot/s of several level 5 buildings together
-> Screenshots/s of representative buildings progression.
-> Details on:
-> -> Complexity
-> -> Strict/loose style
-> -> Are you gonna maintain it
-> -> Required mods
+> - Screenshot/s of several level 5 buildings together
+> - Screenshots/s of representative buildings progression.
+> - Details on:
+>    - Complexity
+>    - Strict/loose style
+>    - Are you gonna maintain it
+>    - Required mods
 
 > Style has to be fully complete for all buildings and fully tagged
 

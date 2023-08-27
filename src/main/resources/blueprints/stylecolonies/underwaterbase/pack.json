@@ -4,11 +4,11 @@
   "authors": [
     "matlom", "McSassa"
   ],
-  "desc": "Exploit the treasures hidden in the deepest oceans. Prepare yourself to clean-up an ocean monument to succeed!",
+  "desc": "Exploit the treasures hidden in the DEEPEST oceans. Prepare yourself to clean-up an ocean monument to succeed! Try to settle with in a 20 blocks (at least) deep ocean.",
   "mods": [
   "structurize",
   "minecolonies"
   ],
-  "version": 26,
+  "version": 38,
   "pack-format": 1
 }

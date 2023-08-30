@@ -1,1 +1,10 @@
+1.0.x:
+
 - Initial Setup
+- Add all existing Styles
+- Minor updates to Styles.
+
+1.1:
+
+- Add Fairytale
+- Update Antique

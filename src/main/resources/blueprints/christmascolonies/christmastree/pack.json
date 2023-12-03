@@ -1,0 +1,14 @@
+{
+  "icon": "christmas.png",
+  "name": "Christmas Tree",
+  "authors": [
+    "Raycoms, Someaddons, JohnReiher, Thodor and Patreons"
+  ],
+  "desc": "[Season] It is Christmas time! This is a giant christmas tree for your builder to build as a challenge!",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "1",
+  "pack-format": "1"
+}

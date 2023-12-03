@@ -1,0 +1,14 @@
+{
+  "icon": "christmas.png",
+  "name": "Christmas Style",
+  "authors": [
+    "Raycoms, Someaddons, JohnReiher, Thodor and Patreons"
+  ],
+  "desc": "[Season] It is Christmas time! This is a Christmasy rework of the Medieval Spruce Style. Snowy roofs, colorful lights and winter motives!",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "1",
+  "pack-format": "1"
+}

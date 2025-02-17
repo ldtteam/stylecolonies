@@ -1,9 +1,0 @@
-1.1
-
-TH lvl 1 fixes
-lure guard lvl 1 fixes
-SS fixes
-
-1.0
-
-Initial Release

@@ -1,0 +1,14 @@
+{
+  "icon": "tropical.png",
+  "name": "Tropical",
+  "authors": [
+    "Thaylar", "John Reiher", "Pixblockus", "_Raycoms_", "Thodor12"
+  ],
+  "desc": "Get the Beach Towels and enjoy the Beach. Tropical is a stilt based style to be placed above shallow water.",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "1.5",
+  "pack-format": "1"
+}

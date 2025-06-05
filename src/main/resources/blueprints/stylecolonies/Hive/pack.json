@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "pack-format": 1,
+  "desc": "Bee-lieve in yourself and build the sweetest home! A complex connected style ideal for hanging in open spaces.",
+  "authors": [
+    "AravanFox, LadyShatana, Jinotad"
+  ],
+  "mods": [
+    "structurize"
+  ],
+  "name": "Hive",
+  "icon": "hive.png"
+}
